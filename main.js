@@ -1,4 +1,4 @@
-import { loadOpenCv, MotionDetection } from './MotionDetection.js';
+import { loadOpenCv, MotionDetection } from 'https://github.com/kazu-iroiro/Image-Recognition-Red-LED/raw/main/MotionDetection.js';
 
 window.Module = {
   onRuntimeInitialized() {
